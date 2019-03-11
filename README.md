@@ -10,7 +10,7 @@ Pull requests are monitored and are more than welcome.
 
 ## Requirements
 
-This repository is automatically used when installing [innospan/ledger](https://github.com/innospan/ledger). There is no need to use this repository directly. To contribute you need at least PHP >=7.2.
+This repository is automatically used when installing [innospan/ledger](https://github.com/innospan/ledger). There is no need to use this repository directly. To contribute you need at least PHP >=7.2 to be able to run de phppunit tests.
 
 ## Disclaimer
 
