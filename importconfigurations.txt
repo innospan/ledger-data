@@ -1,0 +1,36 @@
+[
+    {
+        "name":"ING",
+        "data":{
+            "dw":{
+                "deposit":"Bij",
+                "withdrawal":"Af"
+            },
+            "columns":{
+                "dw":5,
+                "type":4,
+                "amount":6,
+                "account":2,
+                "currency":null,
+                "book_date":0,
+                "reference":null,
+                "description":8,
+                "contra_account":3,
+                "contra_account_name":1
+            },
+            "currency":"EUR",
+            "date_format":"Ymd",
+            "header_lines":[
+                "\"Datum\",\"Naam \/ Omschrijving\",\"Rekening\",\"Tegenrekening\",\"Code\",\"Af Bij\",\"Bedrag (EUR)\",\"MutatieSoort\",\"Mededelingen\""
+            ],
+            "amount_format":{
+                "prefix":"EUR ",
+                "decimals":2,
+                "dec_point":",",
+                "thousands_sep":""
+            },
+            "line_delimiter":"\\r\\n",
+            "column_delimiter":","
+        }
+    }
+]

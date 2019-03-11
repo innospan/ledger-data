@@ -1,0 +1,25 @@
+{
+    "name": "innospan/ledger-data",
+    "description": "Data repository for the Ledger banking tool.",
+    "type": "library",
+    "keywords": [
+        "innospan",
+        "ledger",
+        "banking"
+    ],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/innospan/ledger-data/issues",
+        "source": "https://github.com/innospan/ledger-data"
+    },
+    "authors": [
+        {
+            "name": "Pim Oude Veldhuis",
+            "email": "pim@odvh.nl",
+            "homepage": "https://pim.odvh.nl"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    }
+}

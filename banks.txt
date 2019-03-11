@@ -1,0 +1,14 @@
+[
+    {
+        "name":"ING",
+        "bic":"INGBNL2A",
+        "country":"NL",
+        "bankcode":"INGB"
+    },
+    {
+        "name":"Rabobank",
+        "bic":"RABONL2U",
+        "country":"NL",
+        "bankcode":"RABO"
+    }
+]
